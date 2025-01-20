@@ -4,6 +4,9 @@ Your favorite color schemes now in alacritty  🎨
 
 To install we have two options, install manually or import the theme file, we will show you both options. Let's start with the simplest one, which is to clone the repository and import the theme file directly into your dotfile.
 
+> [!NOTE]
+> This theme is a fork of the Tokyo Night theme adapted with some new colors
+
 ```shell
 mkdir -p ~/.config/alacritty/themes
 git clone https://github.com/neko-night/alacritty ~/.config/alacritty/themes
